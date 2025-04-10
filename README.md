@@ -1,12 +1,33 @@
-# React + Vite
+ 🎯 STUDENT JOB TRACKER -FRONTEND
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A sleek and responsive frontend built using React and Vite for tracking student job applications. Deployed on Vercel.
 
-Currently, two official plugins are available:
+🚀 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Beautiful UI with filterable job status
+- Responsive design
+- Form to add job applications
+- Integration with a backend API (Express + MongoDB)
+- Fast load times with Vite
 
-## Expanding the ESLint configuration
+ 🛠️ Tech Stack
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- React (Vite)
+- CSS / Tailwind CSS
+- Axios (for API calls)
+- Hosted on Vercel
+
+📦 Installation
+git clone https://github.com/nikitaghu1/student-job-tracker-frontend
+cd student-job-tracker-frontend 
+npm install
+
+🔧 Environment Variables
+Create a .env file:
+VITE_API_URL=https://your-backend-url.onrender.com
+
+📈 Run Locally
+npm run dev
+
+🔗 Live Demo
+🌐 View Deployed Frontend
