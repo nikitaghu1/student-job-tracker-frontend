@@ -20,15 +20,20 @@ A sleek and responsive frontend built using React and Vite for tracking student 
 📦 Installation
 
 git clone https://github.com/nikitaghu1/student-job-tracker-frontend
+
 cd student-job-tracker-frontend 
+
 npm install
 
 🔧 Environment Variables
+
 Create a .env file:
 VITE_API_URL=https://student-job-tracker-api-zxyc.onrender.com
 
 📈 Run Locally
+
 npm run dev
 
 🔗 Live Demo
+
 🌐 https://student-job-tracker-frontend-eight.vercel.app/
